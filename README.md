@@ -7,10 +7,10 @@ Used Machine Learning and ReactJS to create this app.
 
 Made By:
    
-   Vishesh Verma
+      Vishesh Verma
    
-   Sumit Chouhan
+      Sumit Chouhan
    
-   Souvik Karmakar
+      Souvik Karmakar
    
-   Aman Guleria
+      Aman Guleria
